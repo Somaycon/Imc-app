@@ -1,3 +1,3 @@
 # imc_app
 
-A new Flutter project.
+This app calc the user body mass index.
