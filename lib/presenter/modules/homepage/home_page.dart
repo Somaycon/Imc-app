@@ -8,8 +8,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  double heigthController = 0;
   double weightController = 0;
+  double heigthController = 0;
   double imcRes = 0;
 
   @override
